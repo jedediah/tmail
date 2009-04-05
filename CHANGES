@@ -1,3 +1,7 @@
+=== 2009-04-04
+
+* Update extension for Ruby 1.9.1 [Jedediah Smith]
+
 === 1.2.3.1 / 2008-04-11
 
 * Closed #19429 - Installing TMail on Windows with the gem
